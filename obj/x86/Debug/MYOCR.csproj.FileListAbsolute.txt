@@ -1,0 +1,9 @@
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\MYOCR.Form1.resources
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\MYOCR.Properties.Resources.resources
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Диплом\МАГИСТР\OCR\MYOCR\bin\Debug\MYOCR.exe
+D:\Диплом\МАГИСТР\OCR\MYOCR\bin\Debug\MYOCR.pdb
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\MYOCR.exe
+D:\Диплом\МАГИСТР\OCR\MYOCR\obj\x86\Debug\MYOCR.pdb
